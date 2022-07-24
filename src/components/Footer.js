@@ -10,4 +10,6 @@ function Footer(){
             <a href="#head">Home</a>
         </footer>
     )
-}
+};
+
+export default Footer;
